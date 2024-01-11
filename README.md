@@ -12,7 +12,7 @@ As tecnologias usadas nesse projeto foram:
 
 <h4>segue a prévia:  https://x.gd/nA6ru  </h4>
 segue a prévia:
-<h4>>segue a prévia em video:  </h4> <img src="/bmi.gif">
+<h4>segue a prévia em video:  </h4> <img src="/bmi.gif">
   
 </p>
 
@@ -35,6 +35,6 @@ The technologies used in this project were:
 
 <h4>follow the preview: https://x.gd/nA6ru </h4>
 Here's the preview:
-<h4>>follow the video preview: </h4> <img src="/bmi.gif">
+<h4>follow the video preview: </h4> <img src="/bmi.gif">
   
 </p>
